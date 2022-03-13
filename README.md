@@ -1,6 +1,6 @@
-# svelte-adminlte
-Svelte.dev version of AdminLTE
+# Svelte Package Tempalte
 
-This Svelte project serves as a template for svelte projects that are based on AdminLTE CSS framework
+this project serves as template for future svelte packages. It includes working dev directory for testing
+Just replace name in package.json and you should be good to go.
+For component to be importable just export it in index.json
 
-[Documentation](https://phoenix-svelte-adminlte.demo.keenmate.com/#/components)
