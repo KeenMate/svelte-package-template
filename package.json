@@ -26,6 +26,7 @@
 		"svelte": "^3.0.0",
     "svelte-preprocess": "^4.6.9",
     "rollup-plugin-postcss": "^4.0.1",
+    "sass": "^1.49.0",
 		"postcss": "^8.3.6"
   },
   "dependencies": {
